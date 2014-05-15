@@ -26,7 +26,7 @@ In snake_case it's clear:
 
 ### It's the JavaScript Way
 
-Just cause we've always done something a certain way doesn't mean we shouldn't change. The current convention is actually a kind of skeuemorphism, where older constraints to reduce characters in code was relevant. If you really want to save characters you will certainly be pre-parsing to uglify your code.
+Just cause we've always done something a certain way doesn't mean we shouldn't change. The current convention is actually a kind of [skeuomorphism](http://en.wikipedia.org/wiki/Skeuomorph) [which is officially "uncool" on the internet], where older constraints to reduce character count in code was relevant. If you really want to save characters you will certainly be pre-parsing to uglify your code.
 
 
 ### It's harder to type
