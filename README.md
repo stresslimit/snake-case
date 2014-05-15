@@ -1,6 +1,6 @@
 # The Case for Snake Case
 
-We strongly prefer working with snake_case over camelCase, and always use snake when we have a choice. And, we want to provide others with the power to make this same choice, against the mountains of 
+We strongly prefer working with snake_case over camelCase, and always use snake when we have a choice. And, we want to provide others with the power to make this same choice, against mountains of opposition.
 
 
 ## The Case
