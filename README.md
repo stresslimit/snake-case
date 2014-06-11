@@ -44,6 +44,8 @@ These projects have valiantly tried to implement a snake_case syntax, but eventu
 
 ## Resources
 
+- https://github.com/ianstormtaylor/to-snake-case
+
 We will provide the following resources:
 
 - mini javascript lib that prototypes all native javascript API functions into their snake equivalents
