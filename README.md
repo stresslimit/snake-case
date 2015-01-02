@@ -41,6 +41,8 @@ These projects have valiantly tried to implement a snake_case syntax, but eventu
 - meteor.js
 - coffeescript
 
+## Articles
+- http://yosefk.com/blog/ihatecamelcase.html
 
 ## Resources
 
